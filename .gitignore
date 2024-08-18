@@ -1,0 +1,15 @@
+*.csv
+*.xlsx
+*.png
+settings.py
+*.sqlite3
+db
+__init__.py
+__pycache__
+migrations
+
+.DS_Store
+*.zip
+*.pkl
+*.pptx
+*.h5
