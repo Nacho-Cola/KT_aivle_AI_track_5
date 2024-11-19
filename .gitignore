@@ -1,6 +1,5 @@
 *.csv
 *.xlsx
-*.png
 settings.py
 *.sqlite3
 db
